@@ -1,0 +1,5 @@
+{
+    "baseUrl" : "https://parabank.parasoft.com/parabank",
+    "chromeWebSecurity": false,
+    "watchForFileChanges": false
+}

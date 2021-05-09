@@ -1,0 +1,22 @@
+{
+  "name": "para-bank",
+  "version": "1.0.0",
+  "description": "automation testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazrulChowdhury/Para-Bank.git"
+  },
+  "author": "Nazrul Chowdhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NazrulChowdhury/Para-Bank/issues"
+  },
+  "homepage": "https://github.com/NazrulChowdhury/Para-Bank#readme",
+  "devDependencies": {
+    "cypress": "^7.2.0"
+  }
+}

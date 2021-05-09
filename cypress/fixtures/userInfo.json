@@ -1,0 +1,11 @@
+{
+  "firstName": "firstName",
+  "lastNAme" : "lastName",
+  "email": "myEmail@gmail.com",
+  "address": "9 wedd house",
+  "city" : "London",
+  "userName": "myUserName@gmail.com",
+  "password": "myPassword",
+  "wrongUsername": "myWrongUsername@gmail.com",
+  "wrongPassword": "wrongPassword"
+}
